@@ -1,2 +1,2 @@
 # Flutter web project
-* 1. [free_images](https://FaKenMaster.github.io/free_images)
+* 1. [free_images](free_images)
